@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+#
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorExampleTests", "CalculatorExampleTests\CalculatorExampleTests.csproj", "{A93032B8-DB86-4885-9E8C-8579EF946315}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorExample", "CalculatorExample\CalculatorExample.csproj", "{EC48D84A-D860-4F3F-897D-4E978F96938F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "solution", "solution", "{DB7E2B55-37DA-4A2C-B0A4-8739E4397090}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A93032B8-DB86-4885-9E8C-8579EF946315}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A93032B8-DB86-4885-9E8C-8579EF946315}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A93032B8-DB86-4885-9E8C-8579EF946315}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A93032B8-DB86-4885-9E8C-8579EF946315}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC48D84A-D860-4F3F-897D-4E978F96938F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC48D84A-D860-4F3F-897D-4E978F96938F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC48D84A-D860-4F3F-897D-4E978F96938F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC48D84A-D860-4F3F-897D-4E978F96938F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
