@@ -48,7 +48,7 @@ public class AddOperationTests
     }
 
     [Fact]
-    public void Operation_name_is_add_lowercase()
+    public void Operation_name_is_add_all_in_lowercase()
     {
         // Arrange
         var operation = new AddOperation();
